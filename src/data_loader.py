@@ -1,4 +1,3 @@
-import pandas as pd
 import yfinance as yf
 
 def load_data(ticker, start_date, end_date):
